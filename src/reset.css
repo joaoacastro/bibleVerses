@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: "Afacad Flux", sans-serif;
+    font-size: 22px;
+    color: #c7c7c7;
+    background-color: #4e4e4e;
+  }
